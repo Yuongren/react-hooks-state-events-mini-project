@@ -1,17 +1,3 @@
-// import React from "react";
-// import { useState } from "react";
-
-// function TaskList(props) {
-//   return (
-//     <div className="tasks">
-//       { props.task /* display a list of tasks using Task component */}
-//     </div>
-//   );
-// }
-  
-// export default TaskList;
-
-
 import React from "react";
 import Task from "./Task";
 
